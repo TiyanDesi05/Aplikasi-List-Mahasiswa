@@ -1,0 +1,6 @@
+# Aplikasi List Nama
+
+## STMIK WIDYA UTAMA - MOBILE PROGRAMMING LANJUT
+
+Nama : Tiyan Desi Wulandari
+NIM : STI202102278
